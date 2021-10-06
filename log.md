@@ -14,9 +14,9 @@
 
 ### Day 2: October 6, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Finished basics to CSS and began learning Applied Visual Design
 
-**Thoughts** 
+**Thoughts**: Learned how to create variables in CSS and formatted an interactive penguin *lol*      
 
 ### Day 3: October 7, 2021
 
